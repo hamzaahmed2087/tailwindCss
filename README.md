@@ -1,2 +1,3 @@
 # tailwindCss
-CSS Design
+CSS Design and Technique
+
